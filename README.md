@@ -1,6 +1,6 @@
 ## Hi there, I'm Ethan! 👋
 
-Hey there, I’m Ethan. I study computer science at UCI, and I've been building my ideas into projects for nearly a decade. My experience ranges from creating internal tools to streamline organizational processes to designing web apps for clients and customers. 
+Hey there, I’m Ethan. I study computer science at UCI, and I've been building my ideas into projects for nearly a decade. My experience ranges from creating internal tools for streamlining organizational processes to designing web apps for clients and customers. 
 
 **I'm currently involved in...**
 
