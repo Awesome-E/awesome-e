@@ -12,7 +12,7 @@ Hey there, I’m Ethan. I study computer science at UCI, and I've been building 
 
 - Hopscotch's _first complete web platform_ [(the journey)](https://awesome-e.dev/projects/hopscotch-web-editor.html)
 - A [_hackathon judging app_](https://awesome-e.dev/projects/hackeval.html) to streamline my own event's judging process
-- A _machine-learning app_ (with a web interface) to select high-quality coding projects **36x more efficiently**.
+- A [_machine-learning app_](https://awesome-e.dev/projects/hopkeep.html) (with a web interface) to select high-quality coding projects **36x more efficiently**.
 - Comprehensive [_GitHub Curriculum_](https://awesome-e.dev/projects/github-curriculum.html) for hackathon participants who haven't used it before.
 - [Video tutorials](https://www.youtube.com/@gamechanger-project/playlists) to help **75,000 viewers** with no prior coding experience _make cool projects_!
 - A system to let [PeterPortal](https://peterportal.org/roadmap) users _import a transcript_ directly into their roadmap.
